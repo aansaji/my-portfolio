@@ -1,0 +1,1 @@
+Optional: add profile or project screenshots here. This version uses CSS illustrations, so the website works without image files.
